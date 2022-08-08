@@ -14,6 +14,7 @@
     "next": "^12.1.7-canary.29",
     "react": "18.1.0",
     "react-dom": "18.1.0",
+    "react-scroll-rotate": "^0.0.7",
     "tailwind-scrollbar-hide": "^1.1.7",
     "yub": "^0.11.1",
     "yup": "^0.32.11"
